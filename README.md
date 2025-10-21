@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cameron Watt
-- 👀 I'm a Software Engineer II within Growth Monetisation at Trustpilot
+- 👀 I'm a Software Engineer III within Growth Monetisation at Trustpilot
 - 😄 Pronouns: he/him/his
 
 <!---
